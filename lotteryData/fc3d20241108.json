@@ -1,0 +1,1691 @@
+{
+  "state": 0,
+  "message": "查询成功",
+  "total": 4100,
+  "pageNum": 137,
+  "pageNo": 1,
+  "pageSize": 30,
+  "Tflag": 0,
+  "result": [
+    {
+      "name": "3D",
+      "code": "2024298",
+      "detailsLink": "/c/2024/11/07/594181.shtml",
+      "videoLink": "",
+      "date": "2024-11-07(四)",
+      "week": "四",
+      "red": "0,5,5",
+      "blue": "",
+      "blue2": "",
+      "sales": "112929996",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024297",
+      "detailsLink": "/c/2024/11/06/593874.shtml",
+      "videoLink": "",
+      "date": "2024-11-06(三)",
+      "week": "三",
+      "red": "3,7,2",
+      "blue": "",
+      "blue2": "",
+      "sales": "111967506",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024296",
+      "detailsLink": "/c/2024/11/05/593767.shtml",
+      "videoLink": "",
+      "date": "2024-11-05(二)",
+      "week": "二",
+      "red": "8,1,6",
+      "blue": "",
+      "blue2": "",
+      "sales": "109864878",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024295",
+      "detailsLink": "/c/2024/11/04/593660.shtml",
+      "videoLink": "",
+      "date": "2024-11-04(一)",
+      "week": "一",
+      "red": "5,7,1",
+      "blue": "",
+      "blue2": "",
+      "sales": "108755108",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024294",
+      "detailsLink": "/c/2024/11/03/593453.shtml",
+      "videoLink": "",
+      "date": "2024-11-03(日)",
+      "week": "日",
+      "red": "3,6,4",
+      "blue": "",
+      "blue2": "",
+      "sales": "104727716",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024293",
+      "detailsLink": "/c/2024/11/02/593447.shtml",
+      "videoLink": "/c/2024/11/02/593450.shtml",
+      "date": "2024-11-02(六)",
+      "week": "六",
+      "red": "5,2,1",
+      "blue": "",
+      "blue2": "",
+      "sales": "105562934",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024292",
+      "detailsLink": "/c/2024/11/01/593441.shtml",
+      "videoLink": "",
+      "date": "2024-11-01(五)",
+      "week": "五",
+      "red": "4,6,2",
+      "blue": "",
+      "blue2": "",
+      "sales": "114439146",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024291",
+      "detailsLink": "/c/2024/10/31/593234.shtml",
+      "videoLink": "",
+      "date": "2024-10-31(四)",
+      "week": "四",
+      "red": "4,2,6",
+      "blue": "",
+      "blue2": "",
+      "sales": "110246274",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024290",
+      "detailsLink": "/c/2024/10/30/593027.shtml",
+      "videoLink": "",
+      "date": "2024-10-30(三)",
+      "week": "三",
+      "red": "9,1,1",
+      "blue": "",
+      "blue2": "",
+      "sales": "109867494",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024289",
+      "detailsLink": "/c/2024/10/29/593020.shtml",
+      "videoLink": "",
+      "date": "2024-10-29(二)",
+      "week": "二",
+      "red": "9,8,9",
+      "blue": "",
+      "blue2": "",
+      "sales": "117486332",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024288",
+      "detailsLink": "/c/2024/10/28/592913.shtml",
+      "videoLink": "",
+      "date": "2024-10-28(一)",
+      "week": "一",
+      "red": "8,3,9",
+      "blue": "",
+      "blue2": "",
+      "sales": "114656190",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024287",
+      "detailsLink": "/c/2024/10/27/592806.shtml",
+      "videoLink": "",
+      "date": "2024-10-27(日)",
+      "week": "日",
+      "red": "1,9,2",
+      "blue": "",
+      "blue2": "",
+      "sales": "113101298",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024286",
+      "detailsLink": "/c/2024/10/26/592700.shtml",
+      "videoLink": "/c/2024/10/26/592703.shtml",
+      "date": "2024-10-26(六)",
+      "week": "六",
+      "red": "6,2,1",
+      "blue": "",
+      "blue2": "",
+      "sales": "109650034",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024285",
+      "detailsLink": "/c/2024/10/25/592594.shtml",
+      "videoLink": "",
+      "date": "2024-10-25(五)",
+      "week": "五",
+      "red": "7,1,8",
+      "blue": "",
+      "blue2": "",
+      "sales": "113500822",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024284",
+      "detailsLink": "/c/2024/10/24/592387.shtml",
+      "videoLink": "",
+      "date": "2024-10-24(四)",
+      "week": "四",
+      "red": "3,4,2",
+      "blue": "",
+      "blue2": "",
+      "sales": "114097094",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024283",
+      "detailsLink": "/c/2024/10/23/592180.shtml",
+      "videoLink": "",
+      "date": "2024-10-23(三)",
+      "week": "三",
+      "red": "4,1,9",
+      "blue": "",
+      "blue2": "",
+      "sales": "110328076",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024282",
+      "detailsLink": "/c/2024/10/22/591973.shtml",
+      "videoLink": "",
+      "date": "2024-10-22(二)",
+      "week": "二",
+      "red": "9,8,3",
+      "blue": "",
+      "blue2": "",
+      "sales": "110059408",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024281",
+      "detailsLink": "/c/2024/10/21/591866.shtml",
+      "videoLink": "",
+      "date": "2024-10-21(一)",
+      "week": "一",
+      "red": "9,0,0",
+      "blue": "",
+      "blue2": "",
+      "sales": "113029256",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024280",
+      "detailsLink": "/c/2024/10/20/591759.shtml",
+      "videoLink": "",
+      "date": "2024-10-20(日)",
+      "week": "日",
+      "red": "2,4,8",
+      "blue": "",
+      "blue2": "",
+      "sales": "107120094",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024279",
+      "detailsLink": "/c/2024/10/19/591753.shtml",
+      "videoLink": "/c/2024/10/19/591756.shtml",
+      "date": "2024-10-19(六)",
+      "week": "六",
+      "red": "0,6,0",
+      "blue": "",
+      "blue2": "",
+      "sales": "108511772",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024278",
+      "detailsLink": "/c/2024/10/18/591746.shtml",
+      "videoLink": "",
+      "date": "2024-10-18(五)",
+      "week": "五",
+      "red": "2,2,1",
+      "blue": "",
+      "blue2": "",
+      "sales": "118003178",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024277",
+      "detailsLink": "/c/2024/10/17/591639.shtml",
+      "videoLink": "",
+      "date": "2024-10-17(四)",
+      "week": "四",
+      "red": "6,8,4",
+      "blue": "",
+      "blue2": "",
+      "sales": "118857726",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024276",
+      "detailsLink": "/c/2024/10/16/591533.shtml",
+      "videoLink": "",
+      "date": "2024-10-16(三)",
+      "week": "三",
+      "red": "0,8,6",
+      "blue": "",
+      "blue2": "",
+      "sales": "116956916",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024275",
+      "detailsLink": "/c/2024/10/15/591426.shtml",
+      "videoLink": "",
+      "date": "2024-10-15(二)",
+      "week": "二",
+      "red": "8,2,7",
+      "blue": "",
+      "blue2": "",
+      "sales": "115206232",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024274",
+      "detailsLink": "/c/2024/10/14/591319.shtml",
+      "videoLink": "",
+      "date": "2024-10-14(一)",
+      "week": "一",
+      "red": "1,7,2",
+      "blue": "",
+      "blue2": "",
+      "sales": "114137160",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024273",
+      "detailsLink": "/c/2024/10/13/591212.shtml",
+      "videoLink": "",
+      "date": "2024-10-13(日)",
+      "week": "日",
+      "red": "8,3,3",
+      "blue": "",
+      "blue2": "",
+      "sales": "115136280",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024272",
+      "detailsLink": "/c/2024/10/12/591106.shtml",
+      "videoLink": "/c/2024/10/12/591109.shtml",
+      "date": "2024-10-12(六)",
+      "week": "六",
+      "red": "2,7,5",
+      "blue": "",
+      "blue2": "",
+      "sales": "115696956",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024271",
+      "detailsLink": "/c/2024/10/11/591000.shtml",
+      "videoLink": "",
+      "date": "2024-10-11(五)",
+      "week": "五",
+      "red": "7,9,5",
+      "blue": "",
+      "blue2": "",
+      "sales": "115448992",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024270",
+      "detailsLink": "/c/2024/10/10/590893.shtml",
+      "videoLink": "",
+      "date": "2024-10-10(四)",
+      "week": "四",
+      "red": "6,9,9",
+      "blue": "",
+      "blue2": "",
+      "sales": "116549922",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    },
+    {
+      "name": "3D",
+      "code": "2024269",
+      "detailsLink": "/c/2024/10/09/590786.shtml",
+      "videoLink": "",
+      "date": "2024-10-09(三)",
+      "week": "三",
+      "red": "3,8,8",
+      "blue": "",
+      "blue2": "",
+      "sales": "120424750",
+      "poolmoney": "",
+      "content": "",
+      "addmoney": "",
+      "addmoney2": "",
+      "msg": "",
+      "z2add": "",
+      "m2add": "",
+      "prizegrades": [
+        {
+          "type": 1,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 2,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 3,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 4,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 5,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 6,
+          "typenum": "",
+          "typemoney": ""
+        },
+        {
+          "type": 7,
+          "typenum": "",
+          "typemoney": ""
+        }
+      ]
+    }
+  ]
+}
