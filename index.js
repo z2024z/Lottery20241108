@@ -9,9 +9,14 @@ fs.readFile('lotteryData\\ssq20241108.json',function(err,data){
     if(err){
         return console.error(err)
     }
+    
     // console.log('asyn read:'+data.toString());
     var jd = JSON.parse(data.toString());
+    //their data is pager. so we need 30 files.
     console.log(jd.state+','+jd.pageSize+','+jd.result[0].blue);
+    //get all blue-ball . what is the regular? 
+    //machine learning method.
+    //store the data 
 
 })
 var http = require('http')
