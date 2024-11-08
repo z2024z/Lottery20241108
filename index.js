@@ -1,5 +1,9 @@
+// import jquery..
+
 
 const $ = require('jquery')
+
+
 var fs = require('fs')
 fs.readFile('lotteryData\\ssq20241108.json',function(err,data){
     if(err){
